@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://gogptsss.github.io/spectrum-spiral-liu-cixin/sitemap.xml
+
+# Disallow hidden folders
+Disallow: /.git/
+Disallow: /courseware/
